@@ -2,10 +2,10 @@
 
 ### 👨🏼‍🚒 Daniel Reim 
 
-- C#
-- C++
-- C
-- LUA
-- XML
-- MEL
-- SCL
+  - C#
+  - C++
+  - C
+  - LUA
+  - XML
+  - MEL
+  - SCL
