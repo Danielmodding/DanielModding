@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### Daniel Reim
-###👨🏼‍🚒
+### Daniel Reim 👨🏼‍🚒
 
 
 <!--
