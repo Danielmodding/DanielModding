@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 👨🏼‍🚒 Daniel Reim 
+#### 👨🏼‍🚒 Daniel Reim 
 
 - Danielmodding - Daniel Reim
 - Programmer, 3D Artist, 2D Artist & DJ
