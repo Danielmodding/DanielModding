@@ -2,6 +2,5 @@
 
 ### 👨🏼‍🚒 Daniel Reim 
 
-Danielmodding - Daniel Reim
-
-Programmer, 3D Artist, 2D Artist & DJ
+- Danielmodding - Daniel Reim
+- Programmer, 3D Artist, 2D Artist & DJ
