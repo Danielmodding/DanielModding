@@ -3,7 +3,7 @@
 #### 👨🏼‍🚒 Daniel Reim 
 
 - Danielmodding - Daniel Reim
-- Programmer [C#, C++, C, LUA, MEL, SCL]
+- Programmer C# C++ C LUA MEL SCL
 - 3D Artist
 - 2D Artist
 - Animator
