@@ -17,4 +17,3 @@
 - Visual Studio 2019
 - Marmoset Toolbag 4
 - Notepad++
-- 
