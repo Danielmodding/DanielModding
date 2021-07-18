@@ -8,6 +8,7 @@
 - 2D Artist
 - Animator
 - Scripter
+- DJ
 
 #### Programms
 - Maya Autodesk 2022
