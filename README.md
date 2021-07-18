@@ -8,3 +8,10 @@
 - 2D Artist
 - Animator
 - DJ
+
+#### Programms
+- Maya Autodesk 2022
+- Substancepainter
+- Photoshop
+- Visual Studio 2019
+- Notepad++
