@@ -7,6 +7,7 @@
 - 3D Artist
 - 2D Artist
 - Animator
+- Scripter
 - DJ
 
 #### Programms
@@ -14,4 +15,5 @@
 - Substancepainter
 - Photoshop
 - Visual Studio 2019
+- Marmoset Toolbag 4
 - Notepad++
