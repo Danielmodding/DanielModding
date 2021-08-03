@@ -8,7 +8,6 @@
 - 2D Artist
 - Animator
 - Scripter
-- DJ
 
 #### Programms
 - Maya Autodesk 2022
@@ -17,5 +16,3 @@
 - Visual Studio 2019
 - Marmoset Toolbag 4
 - Notepad++
-
-
