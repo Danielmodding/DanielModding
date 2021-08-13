@@ -7,7 +7,7 @@
 - Animator
 - Scripter
 
-### Prpgramms
+### Software
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
     <img src="https://img.shields.io/badge/Maya Autodesk 2022-blue?style=for-the-badge&logo=appveyor" height=25>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### 💻 My PC
+### PC / Hardware
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
     <img src="https://img.shields.io/badge/DELL XPS 17-blue?style=for-the-badge&logo=appveyor" height=25>
