@@ -2,7 +2,6 @@
 
 #### 👨🏼‍🚒 Daniel Reim 
 - Danielmodding - Daniel Reim
-- Programmer - C# C++ C LUA MEL SCL
 - 3D Artist
 - 2D Artist
 - Animator
@@ -29,22 +28,16 @@
   </a>
 </p>
 
-#### 💻 My PC
-- Dell XPS 17
-- Intel Core i9 11980HK 5GHz 8Cores
-- 64GB DDR4 Ram [3200MHz]
-- 2TB M.2 NVMe SSD
-- Nvidia 3060 6GB GDDR6[70W]
-
-
 ### Languages
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
     <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
   </a>
 </p>
