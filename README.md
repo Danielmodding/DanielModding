@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/css3-%230096d6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/c%23-C%23-blue" height=25>
 </a>
 </p>
 
