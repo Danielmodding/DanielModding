@@ -7,13 +7,6 @@
 - Animator
 - Scripter
 
-#### 💻 Programms
-- Maya Autodesk 2022
-- Substancepainter
-- Photoshop
-- Visual Studio 2019
-- Marmoset Toolbag 4
-- Notepad++
 ### Prpgramms
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
