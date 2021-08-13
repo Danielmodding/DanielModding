@@ -27,15 +27,11 @@
 ### Languages
 <p>
 <a href="https://Danielmodding.webflow.io" target="_blank">
-<img src="https://img.shields.io/badge/php-%238892be.svg?&style=for-the-badge&logo=php&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/sass-%23bf4080.svg?&style=for-the-badge&logo=sass&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/css3-%230096d6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
+<img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
+<img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
+<img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
 </a>
 </p>
 
