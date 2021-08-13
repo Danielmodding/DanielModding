@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Intel Core i9 11980HK 5GHz 8Cores-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/64GB DDR4 Ram [3200MHz]-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/2TB M.2 NVMe SSD-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/Nvidia 3060 6GB GDDR6[70W]-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Nvidia 3060 6GB-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
   </a>
 </p>
