@@ -59,15 +59,27 @@
 
 ### Follow me on
 <p>
-<a target="_blank" href="https://github.com/danielmodding" title="GitHub">
-<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
-</a>
-<a target="_blank" href="https://gitlab.com/shopbase" title="Gitlab">
-<img src="https://img.shields.io/badge/gitlab-%23fc6d26.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25>
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="LinkedIn">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
+  <a target="_blank" href="https://github.com/danielmodding" title="GitHub">
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://gitlab.com/shopbase" title="Gitlab">
+    <img src="https://img.shields.io/badge/gitlab-%23fc6d26.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="Instagram">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="Instagram">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="Twitter">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="Stack Overflow">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
 </p>
 
 
