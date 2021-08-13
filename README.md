@@ -38,6 +38,11 @@
     <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
   </a>
 </p>
