@@ -5,7 +5,7 @@
   <a href="https://Danielmodding.webflow.io" target="_blank">
     <img src="https://img.shields.io/badge/3d Artist-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/2d Artist-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/Programmer?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Programmer-?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/Animator-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/Scripter-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
