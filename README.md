@@ -12,6 +12,25 @@
   </a>
 </p>
 
+### Languages
+<p>
+  <a href="https://Danielmodding.webflow.io" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
+  </a>
+</p>
+
 ### Software
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
@@ -33,25 +52,6 @@
     <img src="https://img.shields.io/badge/64GB DDR4 Ram [3200MHz]-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/2TB M.2 NVMe SSD-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/Nvidia 3060 6GB-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
-  </a>
-</p>
-
-### Languages
-<p>
-  <a href="https://Danielmodding.webflow.io" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
   </a>
 </p>
