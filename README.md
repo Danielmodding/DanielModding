@@ -22,3 +22,5 @@
 - 64GB DDR4 Ram [3200MHz]
 - 2TB M.2 NVMe SSD
 - Nvidia 3060 6GB GDDR6[70W]
+
+
