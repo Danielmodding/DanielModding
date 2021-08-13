@@ -17,7 +17,7 @@
 - Notepad++
 
 #### 💻 My PC
-Dell XPS 17
+- Dell XPS 17
 - Intel Core i9 11980HK 5GHz 8Cores
 - 64GB DDR4 Ram [3200MHz]
 - 2TB M.2 NVMe SSD
