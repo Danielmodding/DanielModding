@@ -16,6 +16,19 @@
 - Marmoset Toolbag 4
 - Notepad++
 
+
+### 💻 My PC
+<p>
+  <a href="https://Danielmodding.webflow.io" target="_blank">
+    <img src="https://img.shields.io/badge/DELL XPS 17-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
+  </a>
+</p>
+
 #### 💻 My PC
 - Dell XPS 17
 - Intel Core i9 11980HK 5GHz 8Cores
@@ -26,13 +39,14 @@
 
 ### Languages
 <p>
-<a href="https://Danielmodding.webflow.io" target="_blank">
-<img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
-<img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
-<img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
-<img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
-</a>
+  <a href="https://Danielmodding.webflow.io" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
+  </a>
 </p>
 
 ### Frameworks
