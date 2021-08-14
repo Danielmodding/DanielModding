@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/daniel-reim-38a5371a1/" title="Stack Overflow">
     <img src="https://img.shields.io/badge/Stack Overflow-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
