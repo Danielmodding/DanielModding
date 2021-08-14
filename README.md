@@ -15,8 +15,9 @@
 ### Languages
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/C%23-%23fc6d26.svg?&style=for-the-badge&logo=csharp&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/C++-%23fc6d26.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height=25>
+    
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
