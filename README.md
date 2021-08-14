@@ -20,13 +20,6 @@
     <img src="https://img.shields.io/badge/LUA-%23fc6d26.svg?&style=for-the-badge&logo=lua&logoColor=white" height=25>
     <img src="https://img.shields.io/badge/mel-%23fc6d26.svg?&style=for-the-badge&logo=mel&logoColor=white" height=25>
     <img src="https://img.shields.io/badge/SCL-%23fc6d26.svg?&style=for-the-badge&logo=SCL&logoColor=white" height=25>
-    
-  
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/mel-blue?style=for-the-badge&logo=appveyor" height=25>
-    <img src="https://img.shields.io/badge/SCL-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=appveyor" height=25>
