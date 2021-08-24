@@ -30,7 +30,6 @@
   </a>
 </p>
 
-
 ### Follow me on
 <p>
   <a target="_blank" href="https://github.com/danielmodding" title="GitHub">
