@@ -14,7 +14,6 @@
   </a>
 </p>
 
-
 ### Languages
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
@@ -88,8 +87,5 @@
     <img src="https://img.shields.io/badge/...-%23000.svg?&style=for-the-badge&logoColor=white" height=25>
   </a>
 </p>
-
-
-
 
 
