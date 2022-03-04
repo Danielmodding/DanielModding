@@ -2,8 +2,6 @@
 
 ### Daniel Reim | DanielModding
 
-
-
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
     <img src="https://img.shields.io/badge/3d Artist-blue?style=for-the-badge&logo=appveyor" height=25>
