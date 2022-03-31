@@ -79,7 +79,7 @@
 </p>
 <p>
   <a href="https://Danielmodding.webflow.io" target="_blank">
-    <img src="https://img.shields.io/badge/Surface Pro 7-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Surface Pro 8-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/Intel Core i7-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/16GB DDR4 Ram-blue?style=for-the-badge&logo=appveyor" height=25>
     <img src="https://img.shields.io/badge/1TB M.2 NVMe SSD-blue?style=for-the-badge&logo=appveyor" height=25>
