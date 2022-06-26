@@ -11,10 +11,8 @@
 
 <br/>  
 
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=danielmodding&&style=for-the-badge" align="center" />
-</div>  
+
 
 ## My Skill Set  
 <table><tr>
