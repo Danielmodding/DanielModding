@@ -11,9 +11,10 @@
 
 <br/>  
 
-<div align="center"></div>
-<br />
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=danielmodding&&style=for-the-badge" align="center" />
+</div>  
 
 ## My Skill Set  
 <table><tr>
@@ -122,5 +123,8 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=danielmodding&&style=for-the-badge" align="center" />
 </div>  
   
+
+<div align="center"></div>
+<br />
 
 <br/>  
