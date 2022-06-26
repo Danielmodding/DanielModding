@@ -100,8 +100,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielmodding&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielmodding&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://komarev.com/ghpvc/?username=danielmodding&&style=for-the-badge" align="center" />
+</div>  
+
 
 <br/>  
 
@@ -122,7 +124,6 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
   
 
-<div align="center"></div>
-<br />
+
 
 <br/>  
