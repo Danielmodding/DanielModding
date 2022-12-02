@@ -2,10 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
 </div>  
   
-
 ### <div align="center">I'm Daniel, a full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
 - ⚡ C# 😍
 - ⚡ LUA 😍
@@ -98,5 +96,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielmodding&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://komarev.com/ghpvc/?username=danielmodding&&style=for-the-badge" align="center" />
 </div>
-
 
