@@ -101,7 +101,9 @@
 
 
 > nsfw - Not Safe For Work
+
 > sudo - superUser
+
 > ASAP - as soon as possible
 
 
