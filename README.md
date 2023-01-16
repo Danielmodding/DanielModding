@@ -11,7 +11,7 @@
 - 👌 Github
 <br/>  
 
-## My Skill Set  
+## My Skill Set
 <table><tr>
 
 ### Software  
