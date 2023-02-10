@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
+<!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />-->
+  <img src="https://user-images.githubusercontent.com/56229262/218207971-8a7a7926-d737-40c8-bd29-a22beb6c2a62.gif" align="center" style="width: 90%" />
 </div>  
   
 ### <div align="center">I'm Daniel, a full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
