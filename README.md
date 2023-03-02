@@ -10,8 +10,7 @@
 - ⚡ LUA 😍
 - ⚡ Maya Autodesk 😍
 - 👌 Github
-<br/>  
-
+<br/>
 
 ## My Skill Set
 <table><tr>
