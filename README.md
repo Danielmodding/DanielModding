@@ -11,7 +11,6 @@
 - ⚡ Maya Autodesk 😍
 - 👌 Github
 <br/>
-
 ## My Skill Set
 <table><tr>
 
@@ -95,17 +94,6 @@
 <img src="https://komarev.com/ghpvc/?username=danielmodding&&style=for-the-badge" align="center" />
 </div>
 
-
-
-
-
-
 > nsfw - Not Safe For Work
-
 > sudo - superUser
-
 > ASAP - as soon as possible
-
-
-
-
