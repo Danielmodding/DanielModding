@@ -63,15 +63,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/danielmodding/danielmodding/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/21awtmcl6ep7dww6gpk3x3c3q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21awtmcl6ep7dww6gpk3x3c3q&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21awtmcl6ep7dww6gpk3x3c3q&count=5" alt="Spotify recently played"/>
   </a>
 </div>
 
@@ -83,6 +77,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
