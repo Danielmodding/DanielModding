@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is Daniel Reim and I'm a Programmer from Germany</h2>
-
-###
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A 3D Artist & Programmer</h3>
 
